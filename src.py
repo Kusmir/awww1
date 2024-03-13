@@ -140,7 +140,7 @@ class MarkdownGenerator:
             self.content += f'+ [{opening.name}]({page_path})\n\n'
 
             # html for image
-            self.content += f'\t\t<img src="{opening.img_path}" width="200">\n\n'
+            self.content += f'\t<img src="{opening.img_path}" width="200">\n\n'
 
 
         with open('site.md', 'w') as f:
