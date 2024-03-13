@@ -35,8 +35,4 @@ While it is not the most common opening, the Bishop’s Opening still offers a l
 
 Opening guides (from google):
 ===
-+ [Bishop's Opening - Wikipedia](https://en.wikipedia.org/wiki/Bishop%27s_Opening)
-+ [Bishop's Opening - Wikipedia](https://en.wikipedia.org/wiki/Bishop%27s_Opening#Main_variations)
-+ [Bishop's Opening - Wikipedia](https://en.wikipedia.org/wiki/Bishop%27s_Opening#Berlin_Defense:_2...Nf6)
-+ [Bishop's Opening - Wikipedia](https://en.wikipedia.org/wiki/Bishop%27s_Opening#Classical_Defense:_2...Bc5)
 + [The Unbeatable Bishop’s Opening (simple and powerful) - YouTube](https://www.youtube.com/watch?v=Qb3PWiIbIJs)
