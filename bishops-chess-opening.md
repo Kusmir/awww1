@@ -35,4 +35,3 @@ While it is not the most common opening, the Bishop’s Opening still offers a l
 
 Opening guides (from google):
 ===
-+ [The Unbeatable Bishop’s Opening (simple and powerful) - YouTube](https://www.youtube.com/watch?v=Qb3PWiIbIJs)

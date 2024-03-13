@@ -17,5 +17,5 @@ Opening guides (from google):
 ===
 + [CRUSH The Queen's Gambit in 6 Moves: THE ALBIN - YouTube](https://www.youtube.com/watch?v=WU9ai7VYylk)
 + [Openings for Tactical Players: Albin Countergambit - Chess.com](https://www.chess.com/article/view/openings-for-tactical-players-albin-countergambit)
-+ [Learn The Albin Countergambit (Theory, Traps & Ideas) - YouTube](https://www.youtube.com/watch?v=9IltikHlF-M)
-+ [Albin Countergambit (Gotham Style) • lichess.org](https://lichess.org/study/BGPiQ6TD/cG2cYYQJ)
++ [Albin Countergambit - Wikipedia](https://en.wikipedia.org/wiki/Albin_Countergambit)
++ [Master the Brutal Albin Counter-Gambit - Chess Opening Guide - YouTube](https://www.youtube.com/watch?v=4TbXYs5bUDo)

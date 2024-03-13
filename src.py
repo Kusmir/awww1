@@ -139,10 +139,8 @@ class MarkdownGenerator:
             # link to opening subpage
             self.content += f'+ [{opening.name}]({page_path})\n\n'
 
-            # html for image with link
-            self.content += f'\t<a href={page_path}>\n'
+            # html for image
             self.content += f'\t\t<img src="{opening.img_path}" width="200">\n\n'
-            self.content += f'\t</a>\n\n'
 
 
         with open('site.md', 'w') as f:
